@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://waywayi.github.io/sitemap.html.gz
+Sitemap: https://waywayi.github.io/app/sitemap.html.gz
+Sitemap: https://waywayi.github.io/assets/sitemap.html.gz
+Sitemap: https://waywayi.github.io/css/sitemap.html.gz
+Sitemap: https://waywayi.github.io/data/sitemap.html.gz
+Sitemap: https://waywayi.github.io/includes/sitemap.html.gz
+Sitemap: https://waywayi.github.io/item/sitemap.html.gz
+Sitemap: https://waywayi.github.io/src/sitemap.html.gz
